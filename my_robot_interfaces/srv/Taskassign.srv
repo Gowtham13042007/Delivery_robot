@@ -1,0 +1,5 @@
+bool ask
+---
+float64[] goal
+string message
+bool success
