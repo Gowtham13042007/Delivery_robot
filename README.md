@@ -190,6 +190,3 @@ ros2 run delivery_robot nav_action_server
 
 ---
 
-## 👤 Author
-
-**Gowtham13042007**
